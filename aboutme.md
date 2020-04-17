@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Good evening all, my name is Joey Aviles, I entered the realm of data science because I figured that it’s a great way to improve various businesses, governments and institutions. For years I long for impacting the world in a positive way. I believe that the true measure of an individual is the amount of aid that you give, the amount of people that you help out not to glorify your accomplishments but do it just because.
+I have a passion for helping people and I believe data science is the future to making accurate precision medicine in the health care industry,  diagnosing the underlying problems of the mentally ill or finding right housing for the homeless. Also with the right creative mindset and the technological tools of machine learning, the world can be a safer and brighter place. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
